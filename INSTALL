@@ -1,0 +1,9 @@
+Building AluminiumCoin
+
+See doc/readme-qt.rst for instructions on building AluminiumCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AluminiumCoin.
+
+See doc/build-*.txt for instructions on building AluminiumCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AluminiumCoin.
