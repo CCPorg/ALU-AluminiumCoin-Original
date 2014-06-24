@@ -33,16 +33,16 @@ Tech Spec
 
 Get more info
 ========
-* Official WEB Site: http://aluminiumcoin.info
-* Block explorer: http://explorer.aluminiumcoin.info
-* Forum: https://cryptocointalk.com/forum/1273-aluminiumcoin-alu/
-* Twitter: https://twitter.com/AddNodeMaster
-* E-Mail: contact@@@aluminiumcoin.info
-* IRC Channel: https://webchat.freenode.net/?channels=#ccp
-* Facebook page: https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136
+* **E-Mail:** *contact@@@aluminiumcoin.info*
+* **Twitter:** *https://twitter.com/AddNodeMaster*
+* **WEB Site:** *http://www.aluminiumcoin.info*
+* **Block Explorer:** *http://explorer.aluminiumcoin.info*
+* **IRC Channel:** *https://webchat.freenode.net/?channels=#ccp*
+* **Official Forum:** *https://cryptocointalk.com/forum/1273-aluminiumcoin-alu/*
+* **Facebook Page:** *https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136*
 
 
 ========
 ALU-AluminiumCoin is provided by CCP aka Crypto Currency Preservation.  
 Thanks for reading, using and mining AluminiumCoins.  
-**VGold**
+***VGold***
